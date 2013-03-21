@@ -1276,3 +1276,5 @@ lunr.TokenStore.prototype.expand = function (token, memo) {
   return memo
 }
 
+module.exports = lunr;
+

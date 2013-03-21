@@ -1,0 +1,27 @@
+{
+  "name": "grunt-contrib-translate",
+  "description": "Translate dynamic texts",
+  "version": "0.0.2",
+  "homepage": "https://github.com/tinganho/lunr.js",
+  "author": {
+    "name": "Tingan Ho",
+    "email": "tingan87@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tinganho/lunr.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tinganho/lunr.js/issues"
+  },
+  "main": "lunr.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "bin/test"
+  },
+  "keywords": [
+    "search"
+  ]
+}
