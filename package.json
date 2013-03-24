@@ -1,6 +1,6 @@
 {
-  "name": "grunt-contrib-translate",
-  "description": "Translate dynamic texts",
+  "name": "lunr",
+  "description": "Search",
   "version": "0.0.2",
   "homepage": "https://github.com/tinganho/lunr.js",
   "author": {
